@@ -5,7 +5,7 @@
 $${\Large\color{orange}\textsf{Add MIDI soundtrack to your ShaderToy shaders}}$$
 $${\Large\color{orange}\textsf{very light-weight music player FM + additive synthesis}}$$$${\small\color{lightgray}\textsf{© 2026 Orblivius — All rights reserved}}$$
 
-## $${\color{deepskyblue}\textsf{🎬 Live Demo}}$$
+## $${\color{deepskyblue}\textsf{🎬 Video sample}}$$
 <div align="center">
 
 ### 🎬 Video capture of resulted shader
