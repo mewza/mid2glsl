@@ -17,5 +17,6 @@ https://github.com/user-attachments/assets/7761e718-f032-4d33-b57e-ca971a535e86
 
 
 ## $${\color{cyan}\textsf{📖 Overview}}$$
-
+<p align=left>
 `mid2glsl.py` allows you to embed midi files (soundtrack) by adding FM and additive type of soft-synth into ShaderToy shaders making presentation more alive and interesting to watch. It has been optimized for fastest possible load time so that your shader will not be marked as a slow loading type.
+</p>
