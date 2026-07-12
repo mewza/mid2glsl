@@ -8,7 +8,6 @@ $${\Large\color{orange}\textsf{very lite weight player for your shaders}}$$$${\s
 ## $${\color{deepskyblue}\textsf{🎬 Live Demo}}$$
 <p align="center">
 https://github.com/user-attachments/assets/4c7fe125-086c-410b-bcba-808fc7648984
-</div>
 </p>
 <p align="center">
 <samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>ESB - Falcon - Space worm scene</b> • <a href="https://www.shadertoy.com/view/7c33Dn">shadertoy.com/view/7c33Dn</a></samp><br>
