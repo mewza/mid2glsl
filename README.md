@@ -6,9 +6,15 @@ $${\Large\color{orange}\textsf{Add MIDI soundtrack for ShaderToy}}$$
 $${\Large\color{orange}\textsf{very lite weight player for your shaders}}$$$${\small\color{lightgray}\textsf{© 2026 Orblivius — All rights reserved}}$$
 
 ## $${\color{deepskyblue}\textsf{🎬 Live Demo}}$$
-<p align="center">
+<div align="center">
+
+### 🎬 Video capture of resulted shader
+
 https://github.com/user-attachments/assets/4c7fe125-086c-410b-bcba-808fc7648984
-</p>
+
+*BEYOND_MUSIC.MOD rendered through GLSL MOD Player v1.52*
+
+</div>
 <p align="center">
 <samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>ESB - Falcon - Space worm scene</b> • <a href="https://www.shadertoy.com/view/7c33Dn">shadertoy.com/view/7c33Dn</a></samp><br>
 </p>
