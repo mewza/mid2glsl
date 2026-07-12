@@ -10,7 +10,7 @@ $${\Large\color{orange}\textsf{very lite weight player for your shaders}}$$$${\s
 
 ### 🎬 Video capture of resulted shader
 
-https://github.com/mewza/mid2glsl/releases/download/assets/MIDI2GLSL.mp4
+[https://github.com/mewza/mid2glsl/releases/download/assets/MIDI2GLSL.mp4](https://github.com/user-attachments/assets/4c7fe125-086c-410b-bcba-808fc7648984)
 
 *BEYOND_MUSIC.MOD rendered through GLSL MOD Player v1.52*
 
