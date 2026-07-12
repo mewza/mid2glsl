@@ -10,7 +10,6 @@ $${\Large\color{orange}\textsf{very lite weight player for your shaders}}$$$${\s
 
 ### 🎬 Video capture of resulted shader
 https://github.com/user-attachments/assets/7761e718-f032-4d33-b57e-ca971a535e86
-<b>ESB - Falcon - Space worm scene</b> • <a href="https://www.shadertoy.com/view/7c33Dn">shadertoy.com/view/7c33Dn</a>
 </div>
 <p align="center">
 <samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>ESB - Falcon - Space worm scene</b> • <a href="https://www.shadertoy.com/view/7c33Dn">shadertoy.com/view/7c33Dn</a></samp><br>
