@@ -3,7 +3,7 @@
 # $${\Huge\color{cyan}\textsf{🎵 MID2GLSL v1.0}}$$
 
 $${\Large\color{orange}\textsf{Add MIDI soundtrack for ShaderToy}}$$
-$${\Large\color{orange}\textsf{very lite weight player for your shaders player}}$$$${\small\color{lightgray}\textsf{© 2026 Orblivius — All rights reserved}}$$
+$${\Large\color{orange}\textsf{very lite weight player for your shaders}}$$$${\small\color{lightgray}\textsf{© 2026 Orblivius — All rights reserved}}$$
 
 ## $${\color{deepskyblue}\textsf{🎬 Live Demo}}$$
 <p align="center">
