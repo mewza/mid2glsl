@@ -6,14 +6,13 @@ $${\Large\color{orange}\textsf{Add MIDI soundtrack to your ShaderToy shaders}}$$
 $${\Large\color{orange}\textsf{very light-weight music player FM + additive synthesis}}$$$${\small\color{lightgray}\textsf{© 2026 Orblivius — All rights reserved}}$$
 
 ## $${\color{deepskyblue}\textsf{🎬 Video demo}}$$
-### 🎬 Video capture of resulted shader
+
 <div align="center">
+
 https://github.com/user-attachments/assets/7761e718-f032-4d33-b57e-ca971a535e86
+*ESB - Falcon - Space worm scene • <a href="https://www.shadertoy.com/view/7c33Dn">shadertoy.com/view/7c33Dn</a>
 </div>
-<p align="center">
-<samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>ESB - Falcon - Space worm scene</b> • <a href="https://www.shadertoy.com/view/7c33Dn">shadertoy.com/view/7c33Dn</a></samp><br>
-</p>
-</div>
+
 
 ## $${\color{cyan}\textsf{📖 Overview}}$$
 
