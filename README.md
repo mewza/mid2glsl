@@ -23,7 +23,6 @@ https://github.com/user-attachments/assets/7761e718-f032-4d33-b57e-ca971a535e86
 <div align="left">
 <pre>
 Usage:
-  Usage:
     bash % python mid2glsl.py in.mid [out.glsl] [--bpm N] [--mode grains|macro|buffer|player]
     [--inst brass|...|piano6 (default: piano6)] [--no-reverb] [--reverb N] [--viz [1|2|3|4|5|led|cd|piano|melee|island]]
     [--no-viz] [--gm] [--time N]  (piano viz is the DEFAULT; --reverb N sets REVERB_TAPS, e.g. 32 = denser room, default 16;
