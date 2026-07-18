@@ -30,6 +30,7 @@ Usage:
     --time N = playback/data limit seconds, default 180)
 </pre>
 </div>
+
 ![Version](https://img.shields.io/badge/version-1.0-orange?style=flat-square)
 ![Python](https://img.shields.io/badge/python-3.x-blue?style=flat-square&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/platform-ShaderToy-7e57c2?style=flat-square)
