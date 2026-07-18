@@ -10,7 +10,7 @@ $${\Large\color{orange}\textsf{very light-weight music player FM + additive synt
 <div align="center">
 https://github.com/user-attachments/assets/7761e718-f032-4d33-b57e-ca971a535e86
 <p align=center>
-<b>Live Demo: <a href="https://www.shadertoy.com/view/sc33zs">ESB - Falcon - Space worm scene</a></b>
+<b>Live Demo: <a href="https://www.shadertoy.com/view/sc33zs">Return to the Monkey Island</a></b>
   </p>
 </div>
 
