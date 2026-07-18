@@ -1,6 +1,6 @@
 <div align="center">
 
-# $${\Huge\color{cyan}\textsf{🎵 MID2GLSL v1.0}}$$
+# $${\Huge\color{cyan}\textsf{🎵 MID2GLSL v1.3}}$$
 
 $${\Large\color{orange}\textsf{Add MIDI soundtrack to your ShaderToy shaders}}$$
 $${\Large\color{orange}\textsf{very light-weight music player FM + additive synthesis}}$$$${\small\color{lightgray}\textsf{© 2026 Orblivius — All rights reserved}}$$
